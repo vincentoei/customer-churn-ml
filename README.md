@@ -2,7 +2,7 @@
 
 End-to-end machine learning pipeline for predicting telecom customer churn.
 
-**Docs:** [`http://3.93.153.38:8000/docs`](http://3.93.153.38:8000/docs)
+**Docs:** [`http://13.217.166.167:8000/docs`](http://13.217.166.167:8000/docs)
 
 ---
 
